@@ -1,0 +1,7 @@
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.csproj.AssemblyReference.cache
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.AssemblyInfoInputs.cache
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.AssemblyInfo.cs
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.csproj.CoreCompileInputs.cache
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SEID\Desktop\FitnessCenterSolution - master\druga.faza\obj\Debug\net8.0\druga.faza.MvcApplicationPartsAssemblyInfo.cache

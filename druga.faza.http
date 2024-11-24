@@ -1,0 +1,6 @@
+@druga.faza_HostAddress = http://localhost:5137
+
+GET {{druga.faza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
